@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">轮子上有个树莓</string>
+    <string name="IP">服务器ip</string>
+    <string name="Port">通信端口</string>
+    <string name="Connect">连接</string>
+    <string name="condition">未连接</string>
+    <string name="Speed">速度</string>
+    <string name="Send">发送</string>
+    <string name="x">X:</string>
+    <string name="y">Y:</string>
+    <string name="forword">前进</string>
+    <string name="hou">后退</string>
+    <string name="left">左转</string>
+    <string name="right">右转</string>
+    <string name="raspberry">rasp</string>
+    <string name="二维码">二维码</string>
+    <string name="几何图形">几何图形</string>
+    <string name="颜色">颜色</string>
+</resources>
